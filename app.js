@@ -9,7 +9,9 @@ console.log(temp.mul(10,2));
 console.log(temp.div(10,2));
 // console.log(temp(1,2));
 
+// DOM events - click, blur, focus
 
+// Class - Events - module - emit
 
 // Built in modules
 
